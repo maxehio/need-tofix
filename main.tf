@@ -9,3 +9,4 @@ resource "null_resource" "example" {}
 output "stack_b_message" {
   value = "This is Stack B's output"
 }
+
